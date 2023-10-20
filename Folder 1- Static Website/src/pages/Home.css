@@ -1,0 +1,31 @@
+.Home {
+    width: 1502px;
+    height: 182px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #A379BC;
+  }
+.pal{
+    color: #000;
+font-family: Noto Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.im{
+    width: 304px;
+height: 449px;
+flex-shrink: 0;
+position: absolute;
+right: 100px; /* Move the image 800 pixels to the right */
+}
+
+.week{
+    color: #000;
+font-family: Noto Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
